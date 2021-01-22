@@ -2,7 +2,7 @@
 
 ## What
 
-On this repository, we tried to do some classification model and try to understand how it works. We use [this] (https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset) dataset.
+On this repository, we tried to do some classification model and try to understand how it works. We use [this](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset) dataset.
 
 ## Why
 
